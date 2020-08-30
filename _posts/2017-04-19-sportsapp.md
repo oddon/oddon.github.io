@@ -5,9 +5,9 @@ title: 'Sportify'
 date: 2017-04-19 15:56:00
 categories: development
 tags: Android UCSD
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A meetup app for finding others to play sports'
+featured_image: '/img/posts/02-sportify.png'
+project_link: ''
+button_icon: ''
+button_text: ''
+lead_text: 'An Android meet up app whose goal is to connect users who are interested in engaging in outdoor activities with other users who share the same interest.'
 ---
