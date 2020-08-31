@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 destination: "./docs"
-title: "Hi! I'm Don."
+title: "Don Vo"
 email: 'don@donvo.dev'
-description: "I'm a software engineer specializing in iOS development."
+description: "Software Development Engineer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://donvo.dev" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -90,6 +90,17 @@ pagination:
 
 ############################################################
 
+### Homepage Landing Text
+landing_title: "Hi! I'm Don."
+landing_subtitle: "I'm a software engineer specializing in iOS development."
+
+### Homepage Details Text
+section_title: 'Portfolio'
+section_subtitle: 'Below are some of the projects that I have worked on in the past few years.'
+
+
+############################################################
+
 ### Phantom settings
 footer_text: '© 2020 Don Vo'
 admin_name: 'Don Vo'
@@ -97,7 +108,7 @@ google_analytics: "UA-175540932-1" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
